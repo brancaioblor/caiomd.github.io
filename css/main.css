@@ -1,0 +1,85 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+.menu-principal {
+    position: absolute;
+    top: 40px;
+    left: 320px;
+    width: 1366px;
+    height: 25px;
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+main {
+
+margin: 0 auto;
+width: 1277px;
+
+
+}
+
+.logo{
+    padding: 45px;
+    width: 90%;
+    position: absolute;
+    float: left;
+
+}
+
+.cima-menu ul li{
+    display: inline-block;
+    position: absolute;
+    top: 18%;
+}
+
+.cima2-menu ul li{
+    display: inline-block;
+    position: absolute;
+    left: 80%;
+    top: 18%;
+
+
+}
+
+.cima3-menu ul li{
+
+    display: inline-block;
+    position: absolute;
+    left: 65%;
+    top: 18%;
+
+}
+
+.central-atendimento{
+padding: 45px;
+position: absolute;
+left: 70%;
+
+}
+
+.caminho-109{
+    width: 1366px;
+    background-position: right;
+    
+
+}
+
+.header-2{
+background-color: #ffffff;
+width: 100%;
+
+}
+
+.menu{
+
+top: 115px;
+left: 0px;
+width: 1366px;
+height: 400px;
+
+}
+
